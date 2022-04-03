@@ -1,0 +1,41 @@
+{
+  "data": {
+    "users": {
+      "6285824629954@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      }
+    },
+    "chats": {
+      "6285824629954@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false
+      }
+    },
+    "sticker": {},
+    "database": {},
+    "game": {},
+    "settings": {
+      "6283856885495@s.whatsapp.net": {
+        "status": 0,
+        "autobio": false
+      }
+    },
+    "others": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "src/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "src/database.json",
+        "tempFilename": "src/.database.json.tmp"
+      }
+    }
+  }
+}
